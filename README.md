@@ -4,9 +4,9 @@
 Hi! I'm an Electrical Engineering student (Control Engineering) learning Data Analysis and Machine Learning.
 
 ## Learning Path / مسیر یادگیری:
-- Python Basics ✅
-- NumPy ✅
-- Pandas ✅
+- Python Basics 
+- NumPy 
+- Pandas 
 - Matplotlib (in progress) 🔄
 - SQL (later)
 - Scikit-learn (later)
@@ -17,5 +17,5 @@ Hi! I'm an Electrical Engineering student (Control Engineering) learning Data An
 - [ ] Matplotlib (in progress)
 
 ## Contact / تماس:
-- GitHub: [your-username]
-- Email: [your-email]
+- GitHub: ariabamdadian
+- Email: Aria.2004b@gmail.com
